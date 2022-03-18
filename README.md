@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Francesco
+- 💻 I'm an ERP2 Custom Developer for Centro Software
+- 👔 My personal LinkedIn account https://www.linkedin.com/in/francesco-d-1a81ab108/
+- 📫 You can find me on fdagostino@centrosoftware.com
